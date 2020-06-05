@@ -1,0 +1,180 @@
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\SportsStore.dll.config
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\SportsStore.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\SportsStore.pdb
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csc.exe
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csc.exe.config
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csc.rsp
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csi.exe
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csi.exe.config
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\csi.rsp
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Console.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\vbc.exe
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\vbc.rsp
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\EntityFramework.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\EntityFramework.xml
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\obj\Debug\SportsStore.csprojAssemblyReference.cache
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CopyComplete
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\AYBU\Desktop\Iskur\28Agustos\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+D:\SportsStore\SportsStore\bin\SportsStore.dll.config
+D:\SportsStore\SportsStore\bin\SportsStore.dll
+D:\SportsStore\SportsStore\bin\SportsStore.pdb
+D:\SportsStore\SportsStore\bin\roslyn\csc.exe
+D:\SportsStore\SportsStore\bin\roslyn\csc.exe.config
+D:\SportsStore\SportsStore\bin\roslyn\csc.rsp
+D:\SportsStore\SportsStore\bin\roslyn\csi.exe
+D:\SportsStore\SportsStore\bin\roslyn\csi.exe.config
+D:\SportsStore\SportsStore\bin\roslyn\csi.rsp
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SportsStore\SportsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SportsStore\SportsStore\bin\roslyn\System.AppContext.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Collections.Immutable.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Console.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.IO.Compression.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.AccessControl.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Claims.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.ValueTuple.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.dll
+D:\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SportsStore\SportsStore\bin\roslyn\vbc.exe
+D:\SportsStore\SportsStore\bin\roslyn\vbc.exe.config
+D:\SportsStore\SportsStore\bin\roslyn\vbc.rsp
+D:\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe
+D:\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe.config
+D:\SportsStore\SportsStore\bin\EntityFramework.dll
+D:\SportsStore\SportsStore\bin\EntityFramework.SqlServer.dll
+D:\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SportsStore\SportsStore\bin\EntityFramework.xml
+D:\SportsStore\SportsStore\bin\EntityFramework.SqlServer.xml
+D:\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SportsStore\SportsStore\obj\Debug\SportsStore.csprojAssemblyReference.cache
+D:\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CoreCompileInputs.cache
+D:\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CopyComplete
+D:\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+D:\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\SportsStore.dll.config
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\SportsStore.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\SportsStore.pdb
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csc.exe
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csc.exe.config
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csc.rsp
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csi.exe
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csi.exe.config
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\csi.rsp
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.AppContext.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Console.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\vbc.exe
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\vbc.exe.config
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\vbc.rsp
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\EntityFramework.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\EntityFramework.SqlServer.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\EntityFramework.xml
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\EntityFramework.SqlServer.xml
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\obj\Debug\SportsStore.csprojAssemblyReference.cache
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\obj\Debug\SportsStore.csproj.CopyComplete
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\obj\Debug\SportsStore.dll
+C:\Users\AYBU\Desktop\işkur masaüstü\SportsStore\SportsStore\obj\Debug\SportsStore.pdb
